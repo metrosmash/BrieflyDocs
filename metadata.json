@@ -1,0 +1,6 @@
+{
+  "name": "BrieflyDocs",
+  "description": "High-speed document summarization and semantic classification agent using Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
